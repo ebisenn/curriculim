@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+
+h1 {
+    margin-top: 150px;
+    border-bottom: 3px solid white;
+}
+form{
+    margin-top: 50px;
+}
